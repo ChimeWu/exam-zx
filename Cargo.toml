@@ -1,8 +1,11 @@
 [package]
-name = "mytemplate"
+name = "exam-zx"
 version = "0.1.0"
 edition = "2021"
 authors = ["ChimeWu<wujicheng0215@outlook.com>"]
 license = "MIT"
+
+[lib]
+name = "exam_zx"
 
 [dependencies]
